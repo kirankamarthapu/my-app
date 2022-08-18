@@ -4,9 +4,9 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-    <title>Hello World - JSP tutorial</title>
+    <title>PwC AppTech Team - Oracle Alliance Demo</title>
 </head>
 <body>
-    <%= "Hello World!" %>
+    <%= "Welcome to PwC India..!" %>
 </body>
 </html>
